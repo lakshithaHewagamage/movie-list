@@ -2,7 +2,7 @@
 
 Hi I made this project as my first assignment in <b>“Harmony Student Club- NITR” Internship Program
 </b>.
-<br>
+<br><br>
 I have used <b>TMDb API</b> for build this web site. <b>In this code I removed the API Key. </b>
 
 I have used
